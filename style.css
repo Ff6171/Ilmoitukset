@@ -1,34 +1,37 @@
 body {
     background-color: #23272a;
-    max-width: 100%;
+    max-width: 95%;
 }
 .Otsikko {
     color: rgba(255, 255, 255, 0.87);
     max-width: 100%;
     text-align: center;
-    font-size: 4rem;
+    font-size: 350%;
     font-style: oblique;
     margin-top: 5rem;
+    margin-right: 10%;
 }
 .Teksti {
     color: rgba(255, 255, 255, 0.623);
     max-width: 100%;
     text-align: left;
-    font-size: 2rem;
+    font-size: 200%;
     font-style: italic;
+    margin-right: 10%;
 }
 .Koodi {
     color: rgba(255, 255, 255, 0.425);
     max-width: 100%;
     text-align: left;
-    font-size: 2rem;
+    font-size: 200%;
     font-style: normal;
+    margin-right: 10%;
 }
 .Lista {
     color: rgba(255, 255, 255, 0.623);
     max-width: 100%;
     text-align: left;
-    font-size: 2rem;
+    font-size: 200%;
     font-style: italic;
-    margin-left: 5%;
+    margin-right: 10%;
 }
