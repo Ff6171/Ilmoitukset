@@ -6,32 +6,32 @@ body {
     color: rgba(255, 255, 255, 0.87);
     max-width: 100%;
     text-align: center;
-    font-size: 350%;
+    font-size: 6vh;
     font-style: oblique;
-    margin-top: 5rem;
-    margin-right: 20%;
+    margin-top: 5vh;
+    margin-right: 10vh;
 }
 .Teksti {
     color: rgba(255, 255, 255, 0.623);
     max-width: 100%;
     text-align: left;
-    font-size: 200%;
+    font-size: 4vh;
     font-style: italic;
-    margin-right: 20%;
+    margin-right: 10vh;
 }
 .Koodi {
     color: rgba(255, 255, 255, 0.425);
     max-width: 100%;
     text-align: left;
-    font-size: 200%;
+    font-size: 4vh;
     font-style: normal;
-    margin-right:20%;
+    margin-right:10vh;
 }
 .Lista {
     color: rgba(255, 255, 255, 0.623);
     max-width: 100%;
     text-align: left;
-    font-size: 200%;
+    font-size: 4vh;
     font-style: italic;
-    margin-right: 20%;
+    margin-right: 10vh;
 }
